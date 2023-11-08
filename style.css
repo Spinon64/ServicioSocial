@@ -25,3 +25,10 @@
     top: 7rem;
     left: 10rem
 }
+
+.sidebar {
+    padding-top: 200px;
+    height: 700px;
+    overflow: auto;
+  
+}
